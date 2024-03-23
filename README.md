@@ -1,10 +1,7 @@
-# pose-detection-webcam
-
+# Human Pose Estimation Project
 
 - [Running Site](https://khushichoudhary1020.github.io/pose_detection/)
 
-
-# Human Pose Estimation Project
 
 ## Overview
 This project aims to implement a human pose estimation system using deep learning techniques. Human pose estimation involves detecting key points on a person's body, such as joints and limbs, to understand their pose or position in an image or video.
@@ -26,6 +23,8 @@ This project aims to implement a human pose estimation system using deep learnin
 ## Requirements
 - Python 3.x
 - TensorFlow 2.x
+- TensorFlow.js
+- TensorFlow.js PoseNet
 - OpenCV
 - NumPy
 - Matplotlib
